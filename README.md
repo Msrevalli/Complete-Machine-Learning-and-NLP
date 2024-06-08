@@ -57,4 +57,4 @@ This repository contains projects and assignments completed as part of the Machi
 - Python 3.x
 - Jupyter Notebook
 - Git
-- Dock
+- Docker
